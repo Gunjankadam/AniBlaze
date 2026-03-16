@@ -10,7 +10,9 @@
 
 # Demo Video
 
-[![Aniblaze Demo](https://img.youtube.com/vi/REPLACE_WITH_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=REPLACE_WITH_VIDEO_ID)
+<video width="600" controls>
+  <source src="https://res.cloudinary.com/dlo18vcfk/video/upload/v1773652371/AniBlaze_tlirlp.mp4" type="video/mp4">
+</video>
 
 ---
 >[!NOTE]
