@@ -14,7 +14,7 @@
 
 ---
 >[!NOTE]
-> **Educational Purpose Only**: This project is strictly for educational and research purposes. It is designed to demonstrate web scraping techniques, API integration, and modern web application architecture. The authors do not encourage or condone the use of this software for any illegal activities.
+> <p align="justify"> Educational Purpose Only: This project is strictly for educational and research purposes. It is designed to demonstrate web scraping techniques, API integration, and modern web application architecture. The authors do not encourage or condone the use of this software for any illegal activities. </p>
 
 ## Key Features
 
