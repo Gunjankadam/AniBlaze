@@ -1,34 +1,20 @@
 <p align="center">
-  <img src="public/image/pixel_title.png" width="1000" alt="Aniblaze" />
+  <img src="public/image/pixel_title.png" width="500" alt="Aniblaze" />
 </p>
 
 <p align="center">
-  <strong>Episodes On Demand — Ultimate Anime Experience</strong>
+  <strong>Episodes On Demand — Ultimate Streaming Experience</strong>
 </p>
 
 ---
 
 # 📺 Demo Video
-> [!TIP]
-> Click the placeholder below or add your video URL to see the app in action!
 
 [![Aniblaze Demo](https://img.youtube.com/vi/REPLACE_WITH_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=REPLACE_WITH_VIDEO_ID)
 
 ---
-
-# 📸 Screenshots
-
-<p align="center">
-  <img src="public/screenshots/home.png" width="45%" alt="Home Page" />
-  <img src="public/screenshots/search.png" width="45%" alt="Search Results" />
-</p>
-<p align="center">
-  <img src="public/screenshots/watch.png" width="45%" alt="Watch Page" />
-  <img src="public/screenshots/mobile.png" width="45%" alt="Mobile View" />
-</p>
-
----
-> **Educational Purpose Only**: This project is strictly for educational and research purposes. It is designed to demonstrate web scraping techniques, API integration, and modern web application architecture. The authors do not encourage or condone the use of this software for any illegal activities, including but not limited to copyright infringement or unauthorized data extraction.
+>[!NOTE]
+> **Educational Purpose Only**: This project is strictly for educational and research purposes. It is designed to demonstrate web scraping techniques, API integration, and modern web application architecture. The authors do not encourage or condone the use of this software for any illegal activities.
 
 ## 🌟 Key Features
 
