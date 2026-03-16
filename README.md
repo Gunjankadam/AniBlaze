@@ -8,7 +8,7 @@
 
 ---
 
-# 📺 Demo Video
+# Demo Video
 
 [![Aniblaze Demo](https://img.youtube.com/vi/REPLACE_WITH_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=REPLACE_WITH_VIDEO_ID)
 
@@ -16,7 +16,7 @@
 >[!NOTE]
 > **Educational Purpose Only**: This project is strictly for educational and research purposes. It is designed to demonstrate web scraping techniques, API integration, and modern web application architecture. The authors do not encourage or condone the use of this software for any illegal activities.
 
-## 🌟 Key Features
+## Key Features
 
 - **Advanced Scraping Engine**: Extracts high-quality streaming links from multiple providers (HiAnime, GogoAnime, etc.).
 - **Modern UI/UX**: A sleek, responsive interface built with React, Tailwind CSS, and shadcn/ui.
@@ -25,7 +25,7 @@
 - **Robust Backend**: An Express-based scraper server that handles complex data extraction and proxy management.
 - **Database Integration**: MongoDB support for caching and managing anime metadata.
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Frontend
 - **Framework**: Vite + React + TypeScript
@@ -41,7 +41,7 @@
 - **Client**: Axios with custom headers and proxy support
 - **Database**: MongoDB
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -89,10 +89,8 @@
 
 ## 📜 Disclaimer
 
-This software is provided "as is", without warranty of any kind, express or implied. In no event shall the authors be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
-
 **The use of this tool for accessing copyrighted content without permission is strictly prohibited.** This project is intended solely to showcase technical skills in full-stack development and web scraping.
 
 ## 🛡️ License
 
-MIT License - See the [LICENSE](LICENSE) file for details.
+MIT License
