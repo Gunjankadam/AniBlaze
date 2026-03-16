@@ -8,6 +8,29 @@
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+---
+
+## About AniBlaze
+<p align="justify"> 
+AniBlaze is a feature-rich anime streaming web application built for anime enthusiasts who want a seamless, ad-free viewing experience. It aggregates streaming data from multiple sources and presents it in a clean, modern interface inspired by premium streaming platforms. </p>
+<p align="justify">  
+The app pulls anime metadata from the AniList GraphQL API (titles, descriptions, ratings, genres, cover art, airing schedules) and fetches actual video streams via a custom scraper backend — supporting multiple server fallbacks so you almost always find a working stream. Whether you're catching up on the latest seasonal releases, binge-watching a classic series, or discovering something new, AniBlaze has you covered with a smooth, Netflix-like experience right in your browser. </p>
+
+### What Makes It Special?
+- **Multi-Server Streaming** — Automatically falls back to other servers if one fails
+- **User Accounts** — Sign up, log in, and keep your watch history & favorites synced
+- **Airing Countdowns** — See exactly when the next episode drops
+- **Subtitles** — English subs automatically selected when available
+- **Fully Responsive** — Works beautifully on desktop and mobile
+
 # Demo Video
 
 <video src="https://github.com/user-attachments/assets/6e46f3cf-f587-4852-8e3b-88fe3ffd362e" controls width="600"></video>
