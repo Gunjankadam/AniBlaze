@@ -10,9 +10,7 @@
 
 # Demo Video
 
-<video width="600" controls>
-  <source src="https://res.cloudinary.com/dlo18vcfk/video/upload/v1773652371/AniBlaze_tlirlp.mp4" type="video/mp4">
-</video>
+<video src="https://github.com/user-attachments/assets/6e46f3cf-f587-4852-8e3b-88fe3ffd362e" controls width="600"></video>
 
 ---
 >[!NOTE]
@@ -89,10 +87,21 @@
      npm run dev
      ```
 
-## 📜 Disclaimer
+## Screenshots
+
+![Home](https://github.com/Gunjankadam/AniBlaze/blob/main/misc/1.png)
+
+![Home](https://github.com/Gunjankadam/AniBlaze/blob/main/misc/2.png)
+
+![Home](https://github.com/Gunjankadam/AniBlaze/blob/main/misc/3.png)
+
+![Home](https://github.com/Gunjankadam/AniBlaze/blob/main/misc/4.png)
+
+
+## Disclaimer
 
 **The use of this tool for accessing copyrighted content without permission is strictly prohibited.** This project is intended solely to showcase technical skills in full-stack development and web scraping.
 
-## 🛡️ License
+## License
 
 MIT License
