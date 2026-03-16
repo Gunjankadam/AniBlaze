@@ -86,6 +86,16 @@
      ```sh
      npm run dev
      ```
+## Backend Access
+
+The backend server for this project is kept in a **private repository** due to various sensitivities (API keys, scraping logic, server infrastructure, etc.).
+
+If you require access to the backend source code for legitimate educational or research purposes, please reach out via email:
+
+**[kadamgunjan27@gmail.com](mailto:kadamgunjan27@gmail.com)**
+
+Access is granted at the author's discretion.
+
 
 ## Screenshots
 
